@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"core/lightswap-core/contracts/Claim.sol": "SafeERC20"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"core/lightswap-core/contracts/Claim.sol": {
+			"keccak256": "0xa169ad90029d22de9d45490111590b9d48cfa99d131e41704fe9e0c68b5ba67c",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://bdd1455e3c227e33370d560e75eb9e9fdc9a2736d6f5365098f290caa893810d",
+				"dweb:/ipfs/QmZwKMsRGamhL27D5FF9NiaDKTBqv1cBzmcsr5C7C8GWt5"
+			]
+		}
+	},
+	"version": 1
+}

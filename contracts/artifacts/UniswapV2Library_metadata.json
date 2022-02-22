@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"core/lightswap-core/contracts/ZappyRouter.sol": "UniswapV2Library"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"core/lightswap-core/contracts/ZappyRouter.sol": {
+			"keccak256": "0x2d370f76ade34d439c1322e5882fa71512331e5d107dc91a555f7f0bd4093d7b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://969dc98e3fc4cf76f2a4bbad00ecc655746a67799c3976a6ececc7dc70ec0bf0",
+				"dweb:/ipfs/QmQWtJ32whr8mD9BMaQEJdYsBYDnY5H4LfVkuXx2MQRZkq"
+			]
+		}
+	},
+	"version": 1
+}
